@@ -4,12 +4,14 @@ Industrial Human Resource Geo-Visualization
 
 **Industrial Human Resource Geo-Visualization** is a data-driven analysis project focused on understanding and visualizing the classification of Main and Marginal workers  in Rural and urban areas in India. The project aims to update the outdated industrial classification data by gender, section, division, and class of workers. The insights generated will aid policymakers, researchers, and planners in employment forecasting and resource distribution.
 
+
 🎯 Objectives
 
 - Update and modernize the classification of industrial human resources in India.
 - Analyze gender-wise, state-wise, and industry-wise worker distribution.
 - Apply EDA and NLP to extract meaningful insights.
 - Visualize workforce patterns geographically using interactive plots and maps.
+- 
 
 
 🧰 Technologies Used
@@ -22,6 +24,7 @@ Industrial Human Resource Geo-Visualization
 | NLP                | 'Spacy', `transformers` (BERT tokenizer)               |
 | Data Preprocessing | scikit-learn, scipy                           |
 | Others             | Jupyter Notebook, Streamlit (for deployment)  |
+
 
 
 
@@ -39,6 +42,7 @@ Industrial Human Resource Geo-Visualization
 
 
 
+
 🔍 Exploratory Data Analysis (EDA)
 
 - **Visualizations**:
@@ -48,6 +52,7 @@ Industrial Human Resource Geo-Visualization
 - **Statistical Analysis**:
   - Distribution insights
   - Skewness and kurtosis values
+  - 
  
 
 
