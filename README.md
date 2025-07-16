@@ -1,4 +1,4 @@
-Industrial Human Resource Geo-Visualization
+INDUSTRIAL HUMAN RESOURCE GEO-VISUALIZATION
 
  📌 Project Overview
 
